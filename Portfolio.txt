@@ -1,0 +1,39 @@
+Je dois réaliser mon portfolio. Je suis étudiant en informatique à l'école La Plateforme (Marseille) spécialisé en Administration Système et réseaux (1ere année). Je suis donc à la recherche d'une alternance pour l'année prochaine. Ce portfolio est ma vitrine. Tu dois coder un html et css. Je veux un style très épuré et raffiné un peu en mode "arty"
+
+1 - La page d'accueil (page 1)
+
+Je veux une page blanche avec une typographie noir.
+
+Un menu de navigation comprenant : Accueil / Projets / Contact . Le menu de navigation sera situé en haut à droite et sera présent sur les trois pages.
+
+En haut à gauche : Nom et Prénom soit Léon Camuzat
+
+Au milieu de la page une phrase d'accroche "Bienvenu sur mon Portfolio!" en guise de titre
+
+Au milieu de la page en dessous de la phrase d'accroche une photo en grand format
+
+En dessous de la photo un bouton qui permet de télécharger mon CV, un bouton vers mon linkdn, un bouton vers mon GitHub
+
+2 - la page projets (page 2)
+
+Il va falloir créer une mosaïque de 9 images (avec un titre) avec 3 images par ligne et 3 colonnes. Lorsque l'on clique sur une image on est envoyé sur une nouvelle page web. La page web numéro 1, la page web numéro 2, la page web numéro 3 etc...
+
+3 - La page contact (page 3)
+
+Un titre: "Contactez moi!"
+
+Une page de contact simple où on peut me contacter par mail : leon.camuzat@laplateforme.io
+
+Indiqué mon numéro de téléphone : 06 02 42 69 72
+
+4 - la page projet 1 (page 4)
+
+Une image centrale grand format avec un titre "Projet numéro un" ainsi que les éléments suivants : Une Partie conception, une partie technologies utilisées, une partie contexte de réalisations, une partie ce que j'ai réalisé. 
+
+Le site doit être reponsif et adaptatif
+
+
+
+
+
+
