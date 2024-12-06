@@ -1,5 +1,3 @@
-
-
 /* Réinitialisation */
 * {
     margin: 0;
@@ -43,8 +41,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: rgb(17, 188, 240); /* Change la couleur du texte en bleu */
-    transform: scale(1.1); /* Lien légèrement agrandi */
+    color: #E79098 /* Change la couleur du texte en bleu */
 }
 
 /* Media query pour les écrans plus petits (mobiles) */
@@ -98,7 +95,7 @@ nav ul li a:hover {
 
 /* Effet de survol uniquement sur le texte */
 .buttons a:hover {
-    color:#33e8ff  /* Le texte devient bleu électrique */
+    color:#a9e4f9  /* Le texte devient bleu électrique */
 }
 
 /* Page projets */
@@ -145,7 +142,7 @@ nav ul li a:hover {
 
 /* Effet hover sur les liens de contact (email et téléphone) */
 .contact-page a:hover {
-    color: #33e8ff  ;  /* Changer la couleur en bleu au survol */
+    color: #a9e4f9 ;  /* Changer la couleur en bleu au survol */
     transform: scale(1.1);  /* Légère mise à l'échelle au survol */
 }
 
@@ -206,8 +203,8 @@ nav ul li a:hover {
 .section-title {
     font-size: 2em;
     margin-bottom: 20px;
-    color: #33e8ff ; /* Bleu pour harmoniser avec le titre principal */
-    border-bottom: 2px solid #33e8ff ; /* Ligne de séparation sous le titre */
+    color: #a9e4f9; /* Bleu pour harmoniser avec le titre principal */
+    border-bottom: 2px solid #a9e4f9; /* Ligne de séparation sous le titre */
     padding-bottom: 5px;
 }
 
@@ -234,7 +231,7 @@ ul li {
 }
 
 ul li strong {
-    color: #33e8ff ; /* Texte important mis en évidence */
+    color: #a9e4f9 ; /* Texte important mis en évidence */
 }
 
 /* Images */
@@ -306,7 +303,7 @@ ul li strong {
 
 /* Effet de survol discret */
 .main-title:hover {
-    color: #33e8ff ; /* Change la couleur en bleu clair au survol */
+    color: #a9e4f9; /* Change la couleur en bleu clair au survol */
     transition: color 0.3s ease-out; /* Transition douce sur la couleur */
 }
 footer {
